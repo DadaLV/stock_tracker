@@ -46,6 +46,8 @@ gem 'devise'
 gem "devise-i18n"
 gem "devise-bootstrap5"
 
+gem 'iex-ruby-client'
+
 gem 'bootstrap', '~> 5.2.2'
 
 gem 'jquery-rails'
